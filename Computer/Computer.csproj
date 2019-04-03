@@ -5,8 +5,4 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="C:\Users\Developer\Documents\Programas bootcamp\dia_1.cs" Link="dia_1.cs" />
-  </ItemGroup>
-
 </Project>
